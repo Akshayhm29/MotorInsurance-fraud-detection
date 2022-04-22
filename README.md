@@ -1,4 +1,6 @@
-# MotorInsurance-fraud-detection
-
-Vehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident. Some common examples include staged accidents where fraudsters deliberately “arrange” for accidents to occur; the use of phantom passengers where people who were not even at the scene of the accident claim to have suffered grievous injury, and make false personal injury claims where personal injuries are grossly exaggerated.
-
+# Hi, I'm Akshay H.M
+I'm intrested in  Data Science
+I'm Currently Studying Computer Science 
+I'm done with Machine Learning At present learning Deep learning and new things about ML
+For more information contact mr on socials like linkedin,twitter and instagram
+linkedin=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BLOlLsuwiQDaA7YN8B8Vf4A%3D%3D
